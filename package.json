@@ -1,22 +1,22 @@
 {
   "name": "rest-api-barnvagnar",
   "version": "1.0.0",
-  "description": "Course files for the REST API tutorial series on The Net Ninja Youtube channel",
+  "description": "API for Brands and Models",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/rest-api-playlist.git"
+    "url": "t"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/rest-api-playlist/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/iamshaunjp/rest-api-playlist#readme",
+  "homepage": "",
   "dependencies": {
     "body-parser": "^1.16.1",
     "express": "^4.14.1",
